@@ -1,2 +1,4 @@
 final.zip
 node_modules/
+.venv/
+*.pkl
